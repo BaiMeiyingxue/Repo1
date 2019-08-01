@@ -8,4 +8,8 @@ public class First {
     public void test(){
         System.out.println("第一次修订");
     }
+
+    public void test1(){
+        System.out.println("第二次修订");
+    }
 }

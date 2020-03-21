@@ -12,4 +12,7 @@ public class First {
     public void test1(){
         System.out.println("第二次修订");
     }
+    public void test2(){
+        System.out.println("第三次修订");
+    }
 }
